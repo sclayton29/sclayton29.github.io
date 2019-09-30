@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Site Title
+title: Sarah Pugachev
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,20 +8,20 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Sarah Pugachev
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "Research Initatives Librarian at University of Rochester River Campus Library."
+  email: s.pugachev@rochester.edu
   # Do not include the @ symbol in your Twitter username
   twitter: sclayton29
   linkedin: #username
   github: sclayton29
-  orcid: 000-0003-2672-208X
+  orcid: 0000-0003-2672-208X
   researchgate: #username
   mendeley: #username
   google:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: rnl83BsAAAAJ&hl
   facebook: #username
   instagram: #username
   bing-verify:
@@ -48,7 +48,7 @@ lowlight-color: '#000'
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
   cc-by: #yes
-  cc-by-nc: #yes
+  cc-by-nc: yes
 
 #DO NOT EDIT BEYOND THIS POINT
 # Jekyll configuration
