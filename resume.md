@@ -3,17 +3,17 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Research Initiatives Librarian at the University of Rochester River Campus Libraries
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2013-2015`
+__University of Michigan School of Information__
+M.S. in Information
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2009-2013`
+__Emory University__
+B.A. in History 
 
 ## Awards
 
@@ -50,21 +50,26 @@ Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Li
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Research Initiatives Librarian__, University of Rochester River Campus Libraries
 
 - Task
 - Task
 
-`1994-1996`
-__Current Job Title__, Current Employer 
+`2016-2019`
+__Digital Scholarship Specialist__, Univesity of Oklahoma Libraries
 
 - Task
 - Task
 
+`July 2015-December 2015`
+__Digital Scholarship Fellow__, Univesity of Oklahoma Libraries
+
+- Task
+- Task
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: October 2019 -->
 
 
