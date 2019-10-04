@@ -1,10 +1,9 @@
 # Site navigation links
 - title: Home
   url: /
-
--title: Lessons
-  url: /lessons
   
 - title: Resume
   url: /resume/
 
+- title: Lessons
+  url: /lessons/
