@@ -13,4 +13,4 @@ I have created a variety of online lessons. All have CC lessons so please feel f
 * [Guide to Omeka](https://sclayton29.github.io/omeka-guide/)
 
 ## Data Visualization
-* [Using Tableau](https://sclayton29.github.io/tableau-workshop/)
+* [Using Tableau](https://sclayton29.github.io/tableau-workshop/) 
