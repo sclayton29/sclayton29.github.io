@@ -1,6 +1,8 @@
 ---
 layout: page
-excerpt: "Lessons"
+title: "Lessons"
+permalink: /lessons/
+
 ---
 
 I have created a variety of online lessons. All have CC lessons so please feel free to use and remix! Below are a few examples of lessons I have contributed to. 
