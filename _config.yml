@@ -37,7 +37,7 @@ owner:
   soundcloud: #username
   weibo: #username
   flickr: #username
-  codepen: #username
+  codepen: #username  
   disqus-shortname:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
