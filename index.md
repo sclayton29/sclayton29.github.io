@@ -16,4 +16,3 @@ Currently, I am the Research Initiatives Librarian at the University of Rocheste
 - Reproducible Research 
 - Digital Skills Development
 
-![images/bio-photo.jpg](images/bio-photo.jpg)
