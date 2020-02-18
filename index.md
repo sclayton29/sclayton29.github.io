@@ -9,6 +9,8 @@ Currently, I am the Research Initiatives Librarian at the University of Rocheste
 
 [I was named a Library Journal Mover and Shaker in 2017](https://www.libraryjournal.com/?detailStory=sarah-clayton-movers-shakers-2017-digital-developers#_). I have been a certified [Carpentries' instructor](https://carpentries.org/) since 2016 and an instructor trainer since 2018. 
 
+When I'm not working, I live to spend my time playing with my pup and [traveling to sometimes off the beaten path locations](https://puppiesarebarking.wordpress.com/). 
+
 ## Current Interests and Projects:
 
 - Research Impact Metrics
